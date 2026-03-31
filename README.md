@@ -22,100 +22,52 @@ I enjoy working on projects that combine **strong mathematical foundations with 
 
 ## 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
-- Python
-- SQL
-- R
----
+### 👨‍💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
-### 📊 Data Analysis & Manipulation
-- pandas
-- NumPy
-- Polars
-- PySpark
+### 📊 Data Analysis & ML
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=for-the-badge)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
----
+### 📈 Visualization
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-### 📈 Data Visualization
-- Matplotlib
-- Seaborn
-- Power BI
-- Tableau
-
----
-
-### 🤖 Machine Learning
-- scikit-learn
-- XGBoost
-- LightGBM
-- CatBoost
-
----
-
-### 🧠 Deep Learning
-- TensorFlow
-- Keras
-- PyTorch
-
----
-
-### ⏱️ Time Series Analysis
-- statsmodels
-- Prophet
-- ARIMA / SARIMA
-- Feature-based forecasting
-
----
-
-### 🧮 Mathematics & Optimization
-- Linear Programming
-- Integer Programming
-- Optimization modeling
-- Probability & Statistics
-
----
-
-### 🗄️ Databases & Data Warehousing
-- MySQL
-- PostgreSQL
-- SQLite
-- BigQuery
-- Snowflake
-
----
-
-### ⚙️ Data Engineering (Basics)
-- ETL Pipelines
-- Apache Spark
-- Data Cleaning & Validation
-
----
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge)
 
 ### 🚀 MLOps & Deployment
-- Docker
-- FastAPI / Flask
-- Model Deployment (APIs)
-
----
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Model Deployment](https://img.shields.io/badge/Model%20Deployment%20(APIs)-34495E?style=for-the-badge)
 
 ### ☁️ Cloud Platforms
-- Google Cloud Platform (BigQuery, Cloud Storage)
-- Azure
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
----
-
-### 🧰 Tools & Development
-- Git & GitHub
-- Jupyter Notebook / JupyterLab
-- VS Code
-
----
-
-### 📊 Business & Analytics
-- A/B Testing
-- KPI Analysis
-- Data Storytelling
-- Dashboarding
+### ⚙️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Jupyter](https://img.shields.io/badge/Jupyter-DA5B0B?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 ---
 
@@ -138,7 +90,8 @@ Solved optimization problems (e.g., transportation/logistics) using mathematical
 ## 🧩 Skills
 
 - Data Cleaning & Preprocessing  
-- Exploratory Data Analysis (EDA)  
+- Exploratory Data Analysis (EDA)
+- ETL Pipelines
 - Statistical Modeling  
 - Machine Learning Model Development  
 - Time Series Analysis  
